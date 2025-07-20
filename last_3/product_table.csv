@@ -1,0 +1,78 @@
+product_id,design_id,category,product_name,start_date,sale_price,cost
+1,88,Office,Office chair,2021-06-10,2441.53,1626.15
+2,42,Rugs,Large rug,2023-05-28,1928.65,1143.55
+3,55,Bedroom,Bed sheets,2022-06-25,13327.76,8547.5
+4,84,Decor,Wall clock,2021-12-18,1408.04,863.65
+5,121,Lighting,Wall lamp,2023-01-17,574.66,344.19
+6,7,Living Room,Recliner,2025-04-01,7860.79,5104.68
+7,41,Outdoor,Sun lounger,2022-07-29,3578.94,2296.76
+8,84,Living Room,Sectional sofa,2022-03-25,4529.65,3014.86
+9,124,Office,Desk,2021-11-21,5710.02,3720.97
+10,112,Dining,Dining bench,2025-04-29,7045.88,4257.06
+11,83,Bedroom,Pillow,2022-09-01,2001.64,1297.67
+12,97,Rugs,Runner rug,2024-01-02,2575.31,1533.79
+13,14,Living Room,Side table,2022-03-31,8656.58,5235.52
+14,5,Decor,Decorative mirror,2025-01-01,841.93,525.36
+15,142,Bedroom,Bedroom Sets,2024-06-01,10491.93,6540.09
+16,139,Lighting,Decorative light,2022-09-29,2001.15,1331.62
+17,38,Storage,Shelving unit,2023-07-07,6117.35,3725.39
+18,86,Lighting,Hanging lamp,2021-04-18,2733.81,1743.17
+19,124,Storage,Storage cabinet,2022-12-05,6219.95,3971.49
+20,126,Decor,Table clock,2021-05-17,2203.31,1318.87
+21,32,Outdoor,Patio chair,2021-07-08,6858.66,4515.36
+22,6,Decor,Clock,2023-01-30,832.05,500.5
+23,73,Decor,Accent table,2024-02-26,883.89,535.28
+24,15,Bedroom,Quilt,2023-12-10,14752.94,8947.48
+25,6,Bedroom,Kids’ desk,2021-11-06,7034.36,4462.38
+26,89,Rugs,Medium rug,2023-10-30,4935.91,2997.27
+27,115,Rugs,Small rug,2022-12-21,2202.62,1394.25
+28,73,Outdoor,Garden bench,2022-12-23,2668.25,1614.98
+29,13,Lighting,Table lamp,2024-04-26,1948.99,1212.36
+30,131,Dining,Crockery unit,2022-08-07,7844.61,4654.47
+31,23,Outdoor,Outdoor sofa,2024-11-07,5637.88,3754.4
+32,73,Bedroom,Kids’ dresser,2022-11-02,13898.73,9080.83
+33,20,Dining,Dining set (4-seater),2021-12-22,7428.2,4874.65
+34,56,Decor,Pouf,2023-11-14,1830.99,1124.53
+35,13,Bedroom,King bed,2024-09-28,4556.64,2844.66
+36,90,Outdoor,Patio table,2023-02-07,4780.6,2835.22
+37,27,Living Room,TV stand,2022-05-07,7891.98,5062.91
+38,95,Bedroom,Bedside table,2022-04-16,11216.27,6631.39
+39,32,Living Room,Loveseat,2021-11-26,12499.0,7522.35
+40,122,Dining,Sideboard,2023-07-03,2804.97,1811.15
+41,127,Decor,Accent chair,2025-06-05,1050.38,643.17
+42,39,Bedroom,Chest of drawers,2022-10-28,15853.59,9386.12
+43,124,Office,File cabinet,2022-05-15,1648.82,977.6
+44,1,Living Room,Coffee table,2023-06-08,11049.22,6537.37
+45,20,Dining,Dining set (8-seater),2024-03-23,7461.73,4819.67
+46,4,Bedroom,Coverlet,2022-09-24,10727.09,6771.57
+47,88,Storage,Storage Furniture,2024-06-02,4805.9,2949.37
+48,14,Decor,Sand clock,2021-03-01,374.28,242.53
+49,22,Bedroom,Queen bed,2024-12-08,3669.3,2413.91
+50,14,Bedroom,Twin bed,2024-07-14,829.88,535.48
+51,8,Bedroom,Bunk bed,2022-04-06,4739.83,2810.63
+52,103,Bedroom,Storage bed,2022-10-25,14436.51,9093.92
+53,104,Bedroom,Canopy bed,2021-05-06,6214.55,3913.07
+54,130,Bedroom,Dresser,2021-09-07,11420.45,7128.28
+55,41,Bedroom,Nightstand,2021-10-24,538.97,335.5
+56,1,Bedroom,Wardrobe,2023-04-26,12445.54,7610.52
+57,43,Bedroom,Armoire,2022-11-02,4728.81,2793.93
+58,108,Decor,Coat rack,2025-01-24,1789.79,1062.32
+59,39,Bedroom,Kids’ bed,2024-12-21,14154.62,8834.13
+60,124,Bedroom,Crib,2021-11-06,13540.39,8675.26
+61,32,Storage,Kids’ storage,2025-03-07,2628.89,1721.82
+62,60,Bedroom,Comforter set,2021-02-26,7057.53,4155.4
+63,104,Bedroom,Blanket,2022-02-12,1881.44,1171.92
+64,40,Bedroom,Throw,2022-05-24,13835.66,9013.08
+65,4,Bedroom,Pillowcase,2022-03-19,12570.8,7607.73
+66,30,Bedroom,Mattress protector,2022-10-26,5354.11,3550.67
+67,42,Rugs,Round rug,2022-01-17,4929.07,3094.37
+68,134,Lighting,Floor lamp,2022-07-17,838.19,555.95
+69,103,Decor,Photo frame,2021-04-14,2204.72,1418.56
+70,42,Decor,Poster,2023-09-01,2286.51,1369.41
+71,119,Decor,Wall art,2022-05-01,2257.36,1379.86
+72,63,Decor,Framed artwork,2023-09-20,1056.26,673.61
+73,86,Dining,Dining chair,2023-11-12,1389.44,914.96
+74,101,Dining,Buffet,2025-03-02,9222.32,5720.8
+75,123,Living Room,Armchair,2021-06-15,10817.35,6390.94
+76,94,Office,Bookcase,2024-05-07,1720.28,1115.19
+77,96,Living Room,Console table,2022-04-20,8856.33,5341.56
