@@ -1,0 +1,20 @@
+the females is more than males 2 times 
+the daily lead generation:
+
+INITIAL_BASE_LEADS_PER_DAY = 0.25: This is the starting baseline number of leads generated per day. Even though it's a fractional number, the accumulated_fractional_leads variable ensures that these fractional leads eventually sum up to whole leads over time.
+
+LEADS_PER_BRANCH_OPENING = 0.05: Each time a new branch opens, this value is permanently added to the daily lead generation rate from that date forward. This creates a sustained, step-wise increase in the base lead generation.
+
+LEADS_PER_ACTIVE_CAMPAIGN_DAY = 0.5: When a marketing campaign is active, this value is added to the daily lead generation rate only for the duration of that campaign. This creates temporary spikes in lead generation.
+
+CAMPAIGN_RESIDUAL_FACTOR = 0.15: After a campaign ends, a percentage (15% in this case) of the LEADS_PER_ACTIVE_CAMPAIGN_DAY is permanently added to the daily lead generation rate. This simulates a lasting impact of the campaign, such as increased brand awareness, even after the campaign itself has finished.
+
+These parameters work together to create a dynamic growth rate:
+
+Baseline Growth: The INITIAL_BASE_LEADS_PER_DAY provides a continuous, albeit slow, generation of leads.
+
+Permanent Step-Ups: Branch openings and the residual effects of campaigns contribute to a permanent, cumulative increase in the daily lead generation rate. This means the "base" rate of lead generation continuously grows over the simulation period.
+
+Temporary Spikes: Active campaigns introduce short-term, higher surges in lead generation, reflecting real-world marketing efforts.
+
+The values for thes
